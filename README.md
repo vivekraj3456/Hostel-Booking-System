@@ -110,31 +110,6 @@ Frontend will run at:
 
 ---
 
-## 📂 Project Structure
-
-
-hostel-booking/
-├── server/
-│ ├── server.js
-│ ├── data.json
-│ └── package.json
-├── client/
-│ ├── src/
-│ │ ├── App.js
-│ │ ├── App.css
-│ │ ├── index.js
-│ │ ├── index.css
-│ │ ├── pages/
-│ │ │ ├── Rooms.js
-│ │ │ ├── Bookings.js
-│ │ │ ├── AddRoom.js
-│ │ │ └── History.js
-│ │ └── components/
-│ │ └── RoomCard.js
-│ ├── public/
-│ │ └── index.html
-│ └── package.json
-└── README.md 
 
 
 ## 👨‍💻 Author
