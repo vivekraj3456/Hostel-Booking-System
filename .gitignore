@@ -1,0 +1,36 @@
+# --------------------
+# Node Modules
+# --------------------
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# --------------------
+# Build Folder (React)
+# --------------------
+client/build/
+
+# --------------------
+# Environment Files
+# --------------------
+.env
+client/.env
+server/.env
+
+# --------------------
+# Logs
+# --------------------
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --------------------
+# OS Files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# VS Code Settings
+# --------------------
+.vscode/

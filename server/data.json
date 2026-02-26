@@ -1,0 +1,527 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "seater": 2,
+      "roomNumber": "101",
+      "price": 2000,
+      "isAvailable": false
+    },
+    {
+      "id": 2,
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "seater": 2,
+      "roomNumber": "102",
+      "price": 2100,
+      "isAvailable": false
+    },
+    {
+      "id": 3,
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "seater": 3,
+      "roomNumber": "103",
+      "price": 1800,
+      "isAvailable": true
+    },
+    {
+      "id": 4,
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "seater": 3,
+      "roomNumber": "104",
+      "price": 1900,
+      "isAvailable": true
+    },
+    {
+      "id": 5,
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "seater": 4,
+      "roomNumber": "105",
+      "price": 1500,
+      "isAvailable": true
+    },
+    {
+      "id": 6,
+      "hostelType": "Boys",
+      "hostelNumber": 2,
+      "seater": 2,
+      "roomNumber": "201",
+      "price": 2200,
+      "isAvailable": false
+    },
+    {
+      "id": 7,
+      "hostelType": "Boys",
+      "hostelNumber": 2,
+      "seater": 3,
+      "roomNumber": "202",
+      "price": 1850,
+      "isAvailable": true
+    },
+    {
+      "id": 8,
+      "hostelType": "Boys",
+      "hostelNumber": 2,
+      "seater": 4,
+      "roomNumber": "203",
+      "price": 1600,
+      "isAvailable": true
+    },
+    {
+      "id": 9,
+      "hostelType": "Boys",
+      "hostelNumber": 3,
+      "seater": 2,
+      "roomNumber": "301",
+      "price": 2400,
+      "isAvailable": true
+    },
+    {
+      "id": 10,
+      "hostelType": "Boys",
+      "hostelNumber": 4,
+      "seater": 3,
+      "roomNumber": "401",
+      "price": 1950,
+      "isAvailable": true
+    },
+    {
+      "id": 11,
+      "hostelType": "Boys",
+      "hostelNumber": 5,
+      "seater": 4,
+      "roomNumber": "501",
+      "price": 1700,
+      "isAvailable": true
+    },
+    {
+      "id": 12,
+      "hostelType": "Boys",
+      "hostelNumber": 6,
+      "seater": 2,
+      "roomNumber": "601",
+      "price": 2500,
+      "isAvailable": true
+    },
+    {
+      "id": 13,
+      "hostelType": "Girls",
+      "hostelNumber": 1,
+      "seater": 2,
+      "roomNumber": "101",
+      "price": 2000,
+      "isAvailable": true
+    },
+    {
+      "id": 14,
+      "hostelType": "Girls",
+      "hostelNumber": 1,
+      "seater": 3,
+      "roomNumber": "102",
+      "price": 1800,
+      "isAvailable": true
+    },
+    {
+      "id": 15,
+      "hostelType": "Girls",
+      "hostelNumber": 1,
+      "seater": 4,
+      "roomNumber": "103",
+      "price": 1600,
+      "isAvailable": true
+    },
+    {
+      "id": 16,
+      "hostelType": "Girls",
+      "hostelNumber": 2,
+      "seater": 2,
+      "roomNumber": "201",
+      "price": 2100,
+      "isAvailable": true
+    },
+    {
+      "id": 17,
+      "hostelType": "Girls",
+      "hostelNumber": 2,
+      "seater": 4,
+      "roomNumber": "202",
+      "price": 1650,
+      "isAvailable": true
+    },
+    {
+      "id": 18,
+      "hostelType": "Girls",
+      "hostelNumber": 3,
+      "seater": 2,
+      "roomNumber": "301",
+      "price": 2300,
+      "isAvailable": true
+    },
+    {
+      "id": 19,
+      "hostelType": "Girls",
+      "hostelNumber": 4,
+      "seater": 3,
+      "roomNumber": "401",
+      "price": 1900,
+      "isAvailable": true
+    },
+    {
+      "id": 20,
+      "hostelType": "Girls",
+      "hostelNumber": 5,
+      "seater": 4,
+      "roomNumber": "501",
+      "price": 1550,
+      "isAvailable": true
+    },
+    {
+      "id": 21,
+      "hostelType": "Boys",
+      "hostelNumber": 4,
+      "seater": 2,
+      "roomNumber": "112",
+      "price": 2200,
+      "isAvailable": true
+    },
+    {
+      "id": 22,
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "seater": 2,
+      "roomNumber": "112",
+      "price": 3000,
+      "isAvailable": true
+    },
+    {
+      "id": 23,
+      "hostelType": "Boys",
+      "hostelNumber": 3,
+      "seater": 3,
+      "roomNumber": "113",
+      "price": 4000,
+      "isAvailable": true
+    },
+    {
+      "id": 24,
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "seater": 2,
+      "roomNumber": "104",
+      "price": 4000,
+      "isAvailable": false
+    },
+    {
+      "id": 25,
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "seater": 2,
+      "roomNumber": "1053",
+      "price": 5000,
+      "isAvailable": true
+    },
+    {
+      "id": 26,
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "seater": 2,
+      "roomNumber": "113",
+      "price": 5000,
+      "isAvailable": true
+    }
+  ],
+  "bookings": [
+    {
+      "bookingId": 1771899519997,
+      "roomId": 1,
+      "roomNumber": "101",
+      "price": 2000,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T02:18:39.998Z"
+    },
+    {
+      "bookingId": 1771988263687,
+      "roomId": 24,
+      "roomNumber": "104",
+      "price": 4000,
+      "userName": "Guest",
+      "bookedAt": "2026-02-25T02:57:43.687Z"
+    },
+    {
+      "bookingId": 1772009783482,
+      "roomId": 6,
+      "roomNumber": "201",
+      "hostelType": "Boys",
+      "hostelNumber": 2,
+      "price": 2200,
+      "userName": "Guest",
+      "bookedAt": "2026-02-25T08:56:23.480Z"
+    },
+    {
+      "bookingId": 1772009908033,
+      "roomId": 2,
+      "roomNumber": "102",
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "price": 2100,
+      "userName": "Guest",
+      "bookedAt": "2026-02-25T08:58:28.029Z"
+    }
+  ],
+  "waitingQueue": [],
+  "bookingHistory": [
+    {
+      "bookingId": 1771833044003,
+      "roomId": 6,
+      "roomNumber": "201",
+      "price": 2200,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T07:50:44.003Z"
+    },
+    {
+      "bookingId": 1771833269116,
+      "roomId": 9,
+      "roomNumber": "301",
+      "price": 2400,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T07:54:29.116Z"
+    },
+    {
+      "bookingId": 1771833529440,
+      "roomId": 13,
+      "roomNumber": "101",
+      "price": 2000,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T07:58:49.440Z"
+    },
+    {
+      "bookingId": 1771833851932,
+      "roomId": 6,
+      "roomNumber": "201",
+      "price": 2200,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T08:04:11.932Z"
+    },
+    {
+      "bookingId": 1771834098495,
+      "roomId": 9,
+      "roomNumber": "301",
+      "price": 2400,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T08:08:18.495Z"
+    },
+    {
+      "bookingId": 1771834317776,
+      "roomId": 7,
+      "roomNumber": "202",
+      "price": 1850,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T08:11:57.776Z"
+    },
+    {
+      "bookingId": 1771834469984,
+      "roomId": 8,
+      "roomNumber": "203",
+      "price": 1600,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T08:14:29.984Z"
+    },
+    {
+      "bookingId": 1771834751480,
+      "roomId": 21,
+      "roomNumber": "112",
+      "price": 2200,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T08:19:11.480Z"
+    },
+    {
+      "bookingId": 1771836833018,
+      "roomId": 10,
+      "roomNumber": "401",
+      "price": 1950,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T08:53:53.018Z"
+    },
+    {
+      "bookingId": 1771840741357,
+      "roomId": 18,
+      "roomNumber": "301",
+      "price": 2300,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T09:59:01.358Z"
+    },
+    {
+      "bookingId": 1771845102465,
+      "roomId": 8,
+      "roomNumber": "203",
+      "price": 1600,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T11:11:42.465Z"
+    },
+    {
+      "bookingId": 1771845664366,
+      "roomId": 6,
+      "roomNumber": "201",
+      "price": 2200,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T11:21:04.366Z"
+    },
+    {
+      "bookingId": 1771853802030,
+      "roomId": 7,
+      "roomNumber": "202",
+      "price": 1850,
+      "userName": "Guest",
+      "bookedAt": "2026-02-23T13:36:42.031Z"
+    },
+    {
+      "bookingId": 1771894878804,
+      "roomId": 16,
+      "roomNumber": "201",
+      "price": 2100,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T01:01:18.804Z"
+    },
+    {
+      "bookingId": 1771899519997,
+      "roomId": 1,
+      "roomNumber": "101",
+      "price": 2000,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T02:18:39.998Z"
+    },
+    {
+      "bookingId": 1771899833405,
+      "roomId": 2,
+      "roomNumber": "102",
+      "price": 2100,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T02:23:53.405Z"
+    },
+    {
+      "bookingId": 1771900627970,
+      "roomId": 22,
+      "roomNumber": "112",
+      "price": 3000,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T02:37:07.970Z"
+    },
+    {
+      "bookingId": 1771904124507,
+      "roomId": 18,
+      "roomNumber": "301",
+      "price": 2300,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T03:35:24.507Z"
+    },
+    {
+      "bookingId": 1771904456585,
+      "roomId": 3,
+      "roomNumber": "103",
+      "price": 1800,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T03:40:56.585Z"
+    },
+    {
+      "bookingId": 1771909403471,
+      "roomId": 6,
+      "roomNumber": "201",
+      "price": 2200,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T05:03:23.471Z"
+    },
+    {
+      "bookingId": 1771911071815,
+      "roomId": 8,
+      "roomNumber": "203",
+      "price": 1600,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T05:31:11.815Z"
+    },
+    {
+      "bookingId": 1771920522462,
+      "roomId": 3,
+      "roomNumber": "103",
+      "price": 1800,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T08:08:42.462Z"
+    },
+    {
+      "bookingId": 1771921463743,
+      "roomId": 9,
+      "roomNumber": "301",
+      "price": 2400,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T08:24:23.743Z"
+    },
+    {
+      "bookingId": 1771930409273,
+      "roomId": 4,
+      "roomNumber": "104",
+      "price": 1900,
+      "userName": "Guest",
+      "bookedAt": "2026-02-24T10:53:29.273Z"
+    },
+    {
+      "bookingId": 1771987901261,
+      "roomId": 4,
+      "roomNumber": "104",
+      "price": 1900,
+      "userName": "Guest",
+      "bookedAt": "2026-02-25T02:51:41.261Z"
+    },
+    {
+      "bookingId": 1771988263687,
+      "roomId": 24,
+      "roomNumber": "104",
+      "price": 4000,
+      "userName": "Guest",
+      "bookedAt": "2026-02-25T02:57:43.687Z"
+    },
+    {
+      "bookingId": 1771998812360,
+      "roomId": 6,
+      "roomNumber": "201",
+      "hostelType": "Boys",
+      "hostelNumber": 2,
+      "price": 2200,
+      "userName": "Guest",
+      "bookedAt": "2026-02-25T05:53:32.359Z"
+    },
+    {
+      "bookingId": 1772009783482,
+      "roomId": 6,
+      "roomNumber": "201",
+      "hostelType": "Boys",
+      "hostelNumber": 2,
+      "price": 2200,
+      "userName": "Guest",
+      "bookedAt": "2026-02-25T08:56:23.480Z"
+    },
+    {
+      "bookingId": 1772009893142,
+      "roomId": 7,
+      "roomNumber": "202",
+      "hostelType": "Boys",
+      "hostelNumber": 2,
+      "price": 1850,
+      "userName": "Guest",
+      "bookedAt": "2026-02-25T08:58:13.139Z"
+    },
+    {
+      "bookingId": 1772009908033,
+      "roomId": 2,
+      "roomNumber": "102",
+      "hostelType": "Boys",
+      "hostelNumber": 1,
+      "price": 2100,
+      "userName": "Guest",
+      "bookedAt": "2026-02-25T08:58:28.029Z"
+    }
+  ]
+}
